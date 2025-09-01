@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+.env
+node_modules/
+.chromadb/
+collections/generated-tests.json
+collections/tests_cache.json
